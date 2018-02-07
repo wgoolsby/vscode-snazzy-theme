@@ -1,23 +1,13 @@
-# VS Code Snazz Theme
+# README
+## This is the README for your extension "vs-snazzy"
+You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-A VS Code theme based on [vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator) and optimised for use with the [Operator Mono](https://www.typography.com/fonts/operator/overview/) font.
+* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
+* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
+* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
 
-Tweaks to the colouring will lean somewhere between Snazzy and [Dracula Theme](https://draculatheme.com/visual-studio-code/). I test this theme everyday in few Languages; Javascript (ES5 / ES6), JSON, CSS, SCSS, MD, Bash & Dockerfile. Feel free to raise any issues on github.
+### For more information
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-## Installation
-
-The theme is available on the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=mattconde.vscode-snazz-theme) and can be installed in VS Code via Quick Open (⌘P) by running:
-
-```
-ext install vscode-snazz-theme
-```
-
-Alternatively it can be found using the Extensions search feature (⇧⌘X).
-
-## Screenshot
-![vscode-snazz-theme](https://raw.githubusercontent.com/mattconde/vscode-snazz-theme/master/preview.png)
-
-## Credits
-* [vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator)
-* [vscode-snazzy](https://github.com/alexanderbast/vscode-snazzy)
-* [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)
+**Enjoy!**

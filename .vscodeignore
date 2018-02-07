@@ -1,5 +1,4 @@
+.vscode/**
+.vscode-test/**
 .gitignore
-.vscodeignore
-.DS_Store
-sample.jpg
-*.vsix
+vsc-extension-quickstart.md
